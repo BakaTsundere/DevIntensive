@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Портнов Григорий</string>
+    <string name="rate_value">5</string>
+    <string name="rate_text">Рейтинг</string>
+    <string name="code_count">99999</string>
+    <string name="code_text">Написано строк кода</string>
+    <string name="project_value">5</string>
+    <string name="project_text">Проектов</string>
+    <string name="phone_text">Мобильный</string>
+    <string name="phone_number">8922113****</string>
+    <string name="mail_text">Почта</string>
+    <string name="mail_value">e***ay@gmail.com</string>
+    <string name="vk_text">Вконтакте</string>
+    <string name="vk_value">vk.com/id3*******9</string>
+    <string name="repository_text">Репозиторий</string>
+    <string name="repository_value">github.com/BakaTsundere/DevIntensive</string>
+    <string name="about_text">О себе</string>
+    <string name="about_value">Baka Baka Baka</string>
 </resources>
